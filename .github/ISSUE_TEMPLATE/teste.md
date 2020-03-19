@@ -2,7 +2,7 @@
 name: 'Task: Create a New GCP Team Project'
 about: 'Use this as a template to create your standalone Team Project on GCP'
 title: 'Create a New GCP Team Project'
-labels: 'task'
+labels: 'task, Area: Cloud, Type: Feature'
 assignees: ''
 
 ---
