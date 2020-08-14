@@ -6,13 +6,15 @@ labels: 'task'
 assignees: ''
 
 ---
+
+<!--- Ex: Wireguard VPN, some database, etc. -->
 Quick notes:
 
-* Database copies will be available only for current MongoDB members. If it is not your case, you must require access first.
+<!--- Database copies will be available only for current MongoDB members. If it is not your case, you must require access first.
 * You must restore the database locally using the [following instructions](https://docs.atlas.mongodb.com/backup/archive/archive-one-snapshot/#use-your-preferred-archive-utility-to-extract-the-archive-and-access-the-data-files)
 * SRE Team will request your download and share with you the a URL to get it. 
 * This link is 1-shot, it expires after first access
-* Do not share the link with anybody!
+* Do not share the link with anybody! -->
 
 #### Do you currently have personal access to MongoDB Databases? What is your user?
 
