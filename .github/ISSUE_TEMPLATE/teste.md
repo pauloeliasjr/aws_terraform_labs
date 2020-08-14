@@ -1,5 +1,6 @@
 ---
 name: 'Reset my Password'
+About: 'Reset my Password
 title: 'Reset my Password for service: '
 labels: 'task'
 assignees: ''
